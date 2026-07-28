@@ -1,5 +1,5 @@
 ## Hi there 👋
-# ⚡ Hello World, I'm a Software Engineer & Mobile Developer 🚀
+# ⚡I'm a Software Engineer & Mobile Developer 🚀
 
 <div align="center">
 
@@ -7,8 +7,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Graduate;Flutter+Developer;Mobile+Application+Engineer;Machine+Learning+Enthusiast;Building+Software+Solutions"/>
 
-<img src="https://komarev.com/ghpvc/?username=tohidulhemel&style=for-the-badge&color=7aa2f7"/>
-
+<!-- <img src="https://komarev.com/ghpvc/?username=tohidulhemel&style=for-the-badge&color=7aa2f7"/>
+ -->
 <br>
 
 <a href="https://github.com/tohidulhemel">
@@ -95,7 +95,7 @@ My principles:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=dart,python,cpp,c,javascript&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=dart,python,c&theme=dark&perline=15"/>
 
 </div>
 
@@ -288,7 +288,7 @@ Performance Awareness
 
 
 ---
-
+<!-- 
 # 🏆 GitHub Trophy
 
 
@@ -296,19 +296,19 @@ Performance Awareness
 
 <img src="https://github-profile-trophy.vercel.app/?username=tohidulhemel&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-</div>
+</div> -->
 
 
 ---
 
-# 🐍 Contribution Snake
+<!-- # 🐍 Contribution Snake
 
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/tohidulhemel/tohidulhemel/output/github-contribution-grid-snake-dark.svg"/>
 
-</div>
+</div> -->
 
 
 ---
@@ -376,7 +376,6 @@ create exceptional software.
 > and ideas into reality."
 
 </div>
-
 
 ---
 

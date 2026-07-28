@@ -22,7 +22,7 @@
 </div>
 
 
-# 👨‍💻 About Me
+<!-- # 👨‍💻 About Me
 
 Hello! I'm **Tohidul Islam Hemel**, a Computer Science & Engineering graduate from **Daffodil International University**.
 
@@ -37,9 +37,9 @@ My current interests include:
 - 🚀 Building scalable and reliable solutions
 
 
----
+--- -->
 
-# 🎓 Education
+<!-- # 🎓 Education
 
 | Degree | Institution |
 |---|---|
@@ -62,7 +62,7 @@ Computer Networks
 
 
 ---
-
+ -->
 # 🧠 Engineering Philosophy
 
 <div align="center">
@@ -103,9 +103,7 @@ My principles:
 ```
 Dart
 Python
-C++
 C
-JavaScript
 Object-Oriented Programming
 Data Structures
 Algorithms
@@ -134,10 +132,9 @@ API Integration
 Mobile Architecture
 ```
 
-
 ---
 
-## 🌐 Web & Backend
+<!-- ## 🌐 Web & Backend
 
 <div align="center">
 
@@ -152,10 +149,10 @@ REST API Concepts
 Backend Fundamentals
 Server-side Logic
 Database Integration
-```
+``` -->
 
 
----
+<!-- ---
 
 ## 🗄️ Database
 
@@ -175,9 +172,9 @@ Database Management
 ```
 
 
----
+--- -->
 
-## 🤖 Artificial Intelligence
+<!-- ## 🤖 Artificial Intelligence
 
 <div align="center">
 
@@ -193,9 +190,9 @@ Feature Engineering
 Model Evaluation
 AI Applications
 ```
+ -->
 
-
----
+--- 
 
 # 🏗️ Engineering Knowledge
 
@@ -217,7 +214,7 @@ Design Patterns
 ```
 
 
-## Development Practices
+<!-- ## Development Practices
 
 ```
 Git Version Control
@@ -231,7 +228,7 @@ Testing Fundamentals
 Code Organization
 
 Performance Awareness
-```
+``` -->
 
 
 ---
@@ -246,7 +243,7 @@ Performance Awareness
 </div>
 
 
----
+<!-- ---
 
 # 🌱 Currently Exploring
 
@@ -260,7 +257,7 @@ Performance Awareness
 | 🔐 Security | Application Security |
 
 
----
+--- -->
 
 # 📈 GitHub Analytics
 

@@ -2,179 +2,393 @@
 # ⚡ Hello World, I'm a Software Engineer & Mobile Developer 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+Scalable+Cross-Platform+Apps;Specializing+in+React+Native+%26+Flutter;Crafting+Production-Ready+Architectures" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,100:24283b&height=220&section=header&text=Tohidul%20Islam%20Hemel&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=750&lines=Computer+Science+%26+Engineering+Graduate;Flutter+Developer;Mobile+Application+Engineer;Machine+Learning+Enthusiast;Building+Software+Solutions"/>
+
+<img src="https://komarev.com/ghpvc/?username=tohidulhemel&style=for-the-badge&color=7aa2f7"/>
+
+<br>
+
+<a href="https://github.com/tohidulhemel">
+<img src="https://img.shields.io/github/followers/tohidulhemel?style=for-the-badge&logo=github&color=bb9af7"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hemel267/">
+<img src="https://img.shields.io/badge/LinkedIn-Hemel267-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </div>
 
-<p align="center">
-  <a href="https://github.com/alexdev"><img src="https://img.shields.io/github/followers/alexdev?label=Followers&style=for-the-badge&color=7aa2f7&labelColor=1a1b26" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/alex-developer"><img src="https://img.shields.io/badge/LinkedIn-Connect-7aa2f7?style=for-the-badge&logo=linkedin&labelColor=1a1b26" alt="LinkedIn"></a>
-  <a href="mailto:alex.developer@email.com"><img src="https://img.shields.io/badge/Email-Contact-7aa2f7?style=for-the-badge&logo=gmail&labelColor=1a1b26" alt="Email"></a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alexdev&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Visitor Counter">
-</p>
+# 👨‍💻 About Me
 
----
+Hello! I'm **Tohidul Islam Hemel**, a Computer Science & Engineering graduate from **Daffodil International University**.
 
-### 🚀 About Me
+I am passionate about building modern software applications, exploring emerging technologies, and continuously improving my engineering skills.
 
-I am a passionate **Graduate Software Engineer** dedicated to mastering the art of building high-performance, resilient software systems. My core engineering mindset revolves around writing predictable, deterministic code and designing architectures that scale seamlessly across multiple platforms. 
+My current interests include:
 
-* 🎓 **Education:** Graduate in Computer Science & Engineering
-* 💡 **Professional Philosophy:** "Write code for human maintainability, optimize for machine efficiency."
-* 🎯 **Career Goals:** Engineering cross-platform ecosystems that deliver native-grade performance with single-codebase velocity.
-* 🧠 **Areas of Specialization:** Mobile Architecture, Cross-Platform Framework Internals, Interactive Computer Graphics.
-* ⚡ **Technical Interests:** Memory management in compiled runtimes, asynchronous bridge communication protocols, and low-level rendering pipelines.
+- 📱 Flutter Mobile Application Development
+- 🤖 Artificial Intelligence & Machine Learning
+- 🏗️ Software Engineering Practices
+- 🌐 Modern Application Development
+- 🚀 Building scalable and reliable solutions
+
 
 ---
 
-### 🏆 Technical Achievements & Certifications
+# 🎓 Education
 
-* 🥇 **Computer Graphics Lab Project Lead:** Engineered a performance-optimized 3D spatial simulation prototype utilizing low-level OpenGL pipelines and FreeGLUT windowing management.
-* 📜 **Advanced Software Engineering Certifications:** Validated mastery in clean code practices, systems design, and continuous delivery paradigms.
-* 💻 **Competitive Programming Foundations:** Solved algorithmic challenges across LeetCode and HackerRank, focusing on graph theory, dynamic programming, and data structure design.
+| Degree | Institution |
+|---|---|
+| Bachelor of Science in Computer Science & Engineering | Daffodil International University |
 
----
 
-### 💼 Featured Projects
+Relevant Knowledge:
 
-#### 📱 OmniSync: Enterprise Cross-Platform Mobile Engine
-> A production-ready, highly modular application template designed to bridge performance gaps between cross-platform frameworks and native architectures.
+```
+Data Structures
+Algorithms
+Database Systems
+Software Engineering
+Artificial Intelligence
+Machine Learning
+Mobile Application Development
+Web Engineering
+Computer Networks
+```
 
-| Dimension | Architectural Implementation |
-| :--- | :--- |
-| **Business Problem** | High development overhead and fragmented UI state synchronization when maintaining separate native codebases for iOS, Android, and Desktop platforms. |
-| **Architecture** | Clean Architecture pattern separating strict Presentation, Domain, and Infrastructure layers. Utilizes a unidirectional data flow (UDF) engine to ensure atomic state transitions. |
-| **Tech Stack** | `React Native` • `Flutter` • `TypeScript` • `Dart` • `Redux Toolkit` • `BLoC` |
-| **Scalability & Security** | Layered caching with encrypted local key-value stores. Native-level communication using optimized asynchronous message passes over custom platform channels. |
-| **Engineering Challenges** | Overcoming UI thread blocking during high-throughput serialization over the JavaScript/Dart runtime bridges. Resolved by implementing web workers and isolate-driven parallel background computing processing threads. |
-
-#### 🌐 GraphiX: Low-Level 3D Simulation Prototype
-> A hardware-accelerated computer graphics layout engine built to explore real-time spatial rendering pipelines and procedural mesh generations.
-
-| Dimension | Architectural Implementation |
-| :--- | :--- |
-| **Business Problem** | Heavy overhead and visual micro-stuttering in modern heavy frameworks when rendering procedural, geometric layouts inside standalone applications. |
-| **Architecture** | Procedural pipeline relying directly on fixed-function and modern programmable pipelines, encapsulated within clean event loops. |
-| **Tech Stack** | `C++` • `OpenGL` • `FreeGLUT` • `GLSL` |
-| **Performance Highlights** | Manual vertex buffer allocations, optimization of state machine switches to minimize GPU context changes, and custom structural layout math designed for zero memory leaks. |
 
 ---
 
-### ⚡ Engineering Stack
-
-<table>
-  <tr>
-    <td align="center" width="20%"><strong>Programming Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Frontend & Mobile</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>Backend & Graphics</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-      <img src="https://img.shields.io/badge/OpenGL-FFFFFF?style=flat-square&logo=opengl&logoColor=red" alt="OpenGL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>DevOps & Tools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏗️ Engineering Experience
-
-* **Production Cross-Platform Architecture:** Designing asynchronous, non-blocking bridge architectures to run background native background operations smoothly without interface lag.
-* **RESTful API Engineering:** Architecting deterministic REST endpoints with robust exception lifecycles, structured input validations, and payload optimizations.
-* **State Management Systems:** Implementing complex state topologies featuring predictive caching layers, local database synchronizations, and optimistic mutations.
-* **Performance Engineering:** Diagnosing UI thread bottlenecks using CPU profilers, stabilizing rendering loops, and building memory-efficient rendering contexts.
-
----
-
-### 📊 GitHub Metrics
+# 🧠 Engineering Philosophy
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexdev&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+
+> "Great engineers do not only write code.
+> They understand problems, design solutions,
+> and create technology that makes an impact."
+
 </div>
 
-<br />
+
+My principles:
+
+```
+✔ Clean Code
+✔ Scalable Thinking
+✔ Continuous Learning
+✔ Problem Solving
+✔ User-Centered Development
+✔ Engineering Discipline
+```
+
+
+---
+
+# ⚡ Technical Stack
+
+
+## 💻 Programming Languages
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexdev&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
+
+<img src="https://skillicons.dev/icons?i=dart,python,cpp,c,javascript&theme=dark"/>
+
 </div>
 
-<br />
+
+```
+Dart
+Python
+C++
+C
+JavaScript
+Object-Oriented Programming
+Data Structures
+Algorithms
+```
+
+
+---
+
+## 📱 Mobile Development
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexdev&theme=tokyonight" alt="Profile Summary" width="97%" />
+
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio&theme=dark"/>
+
 </div>
 
----
 
-### 🌱 Currently Exploring
+```
+Flutter
+Dart
+Material Design
+Responsive UI
+Reusable Widgets
+State Management
+API Integration
+Mobile Architecture
+```
 
-* 🏗️ **Advanced System Design:** Evaluating trade-offs in distributed data consistency, horizontal scaling models, and fault-tolerant infrastructure topologies.
-* 📱 **Native Core Interoperability:** Diving deep into target system bindings, platform channels, and New Architecture runtimes inside modern reactive environments.
-* 🎨 **Modern Rendering APIs:** Translating core concepts from low-level fixed utility pipelines into modern programmable shaders and graphics compute pipelines.
-
----
-
-### 🤝 Let's Connect
-
-<p align="left">
-  <a href="mailto:alex.developer@email.com">
-    <img src="https://img.shields.io/badge/Email-alex.developer%40email.com-bb9af7?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/alex-developer">
-    <img src="https://img.shields.io/badge/LinkedIn-Alex_Developer-7aa2f7?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/alexdev">
-    <img src="https://img.shields.io/badge/GitHub-alexdev-2ac3de?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/alex_codes">
-    <img src="https://img.shields.io/badge/LeetCode-alex__codes-e0af68?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="https://hackerrank.com/alexdev">
-    <img src="https://img.shields.io/badge/HackerRank-alexdev-73daca?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
 
 ---
 
-> "The best systems are not those that add the most components, but those that leave nothing left to remove while remaining flawlessly functional." 🧠
-<!--
-**tohidulhemel/tohidulhemel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Web & Backend
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://skillicons.dev/icons?i=html,css,js,php,nodejs&theme=dark"/>
+
+</div>
+
+
+```
+Frontend Fundamentals
+REST API Concepts
+Backend Fundamentals
+Server-side Logic
+Database Integration
+```
+
+
+---
+
+## 🗄️ Database
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark"/>
+
+</div>
+
+
+```
+SQL
+Database Design
+CRUD Operations
+Data Modeling
+Database Management
+```
+
+
+---
+
+## 🤖 Artificial Intelligence
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark"/>
+
+</div>
+
+
+```
+Machine Learning
+Data Processing
+Feature Engineering
+Model Evaluation
+AI Applications
+```
+
+
+---
+
+# 🏗️ Engineering Knowledge
+
+
+## Software Architecture
+
+```
+Clean Architecture
+
+MVC Pattern
+
+Repository Pattern
+
+SOLID Principles
+
+Object-Oriented Design
+
+Design Patterns
+```
+
+
+## Development Practices
+
+```
+Git Version Control
+
+Debugging
+
+Documentation
+
+Testing Fundamentals
+
+Code Organization
+
+Performance Awareness
+```
+
+
+---
+
+# 🛠️ Tools
+
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,postman,figma,linux&theme=dark"/>
+
+</div>
+
+
+---
+
+# 🌱 Currently Exploring
+
+
+| Area | Technologies |
+|---|---|
+| 🤖 AI | LLM Engineering, AI Agents, RAG Systems |
+| ☁️ Cloud | Cloud Native Development |
+| 🏗️ Architecture | System Design |
+| ⚙️ Backend | Distributed Systems |
+| 🔐 Security | Application Security |
+
+
+---
+
+# 📈 GitHub Analytics
+
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=tohidulhemel&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tohidulhemel&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tohidulhemel&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 📊 Activity Graph
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tohidulhemel&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+
+---
+
+# 🏆 GitHub Trophy
+
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tohidulhemel&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</div>
+
+
+---
+
+# 🐍 Contribution Snake
+
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/tohidulhemel/tohidulhemel/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+
+---
+
+# 🎯 Career Vision
+
+
+```
+My goal is to become a skilled software engineer
+who builds reliable, scalable and impactful
+technology solutions.
+
+I believe strong fundamentals,
+continuous learning,
+and engineering discipline
+create exceptional software.
+```
+
+
+---
+
+# 🌍 Open Source Goals
+
+
+```
+⭐ Build useful open-source projects
+
+🤝 Collaborate with developers worldwide
+
+📚 Share knowledge
+
+🚀 Create meaningful software
+
+🌱 Learn through contribution
+```
+
+
+---
+
+# 🤝 Connect With Me
+
+
+<div align="center">
+
+<a href="https://github.com/tohidulhemel">
+<img src="https://img.shields.io/badge/GitHub-tohidulhemel-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/hemel267/">
+<img src="https://img.shields.io/badge/LinkedIn-Hemel267-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</div>
+
+
+---
+
+# 💬 Quote
+
+
+<div align="center">
+
+> "The best engineers never stop learning.
+> They transform knowledge into solutions
+> and ideas into reality."
+
+</div>
+
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=Building+software+with+purpose;Learning+every+day;Growing+as+an+engineer"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24283b,100:1a1b26&height=120&section=footer"/>
+
+</div>

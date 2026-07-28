@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/github/followers/tohidulhemel?style=for-the-badge&logo=github&color=bb9af7"/>
 </a>
 
-<a href="https://www.linkedin.com/in/hemel267/">
+<!-- <a href="https://www.linkedin.com/in/hemel267/">
 <img src="https://img.shields.io/badge/LinkedIn-Hemel267-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-</div>
+</div> -->
 
 
 <!-- # 👨‍💻 About Me
@@ -63,7 +63,7 @@ Computer Networks
 
 ---
  -->
-# 🧠 Engineering Philosophy
+<!-- # 🧠 Engineering Philosophy
 
 <div align="center">
 
@@ -111,8 +111,8 @@ Algorithms
 
 
 ---
-
-## 📱 Mobile Development
+ -->
+<!-- ## 📱 Mobile Development
 
 <div align="center">
 
@@ -120,7 +120,7 @@ Algorithms
 
 </div>
 
-
+ -->
 ```
 Flutter
 Dart
@@ -191,9 +191,7 @@ Model Evaluation
 AI Applications
 ```
  -->
-
---- 
-
+<!-- 
 # 🏗️ Engineering Knowledge
 
 
@@ -211,7 +209,7 @@ SOLID Principles
 Object-Oriented Design
 
 Design Patterns
-```
+``` -->
 
 
 <!-- ## Development Practices
@@ -230,7 +228,7 @@ Code Organization
 Performance Awareness
 ``` -->
 
-
+<!-- 
 ---
 
 # 🛠️ Tools
@@ -242,7 +240,7 @@ Performance Awareness
 
 </div>
 
-
+ -->
 <!-- ---
 
 # 🌱 Currently Exploring
@@ -259,7 +257,7 @@ Performance Awareness
 
 --- -->
 
-# 📈 GitHub Analytics
+<!-- # 📈 GitHub Analytics
 
 
 <div align="center">
@@ -287,7 +285,7 @@ Performance Awareness
 </div>
 
 
----
+--- -->
 <!-- 
 # 🏆 GitHub Trophy
 
@@ -311,7 +309,7 @@ Performance Awareness
 </div> -->
 
 
----
+<!-- ---
 
 # 🎯 Career Vision
 
@@ -328,8 +326,8 @@ create exceptional software.
 ```
 
 
----
-
+--- -->
+<!-- 
 # 🌍 Open Source Goals
 
 
@@ -346,9 +344,9 @@ create exceptional software.
 ```
 
 
----
+--- -->
 
-# 🤝 Connect With Me
+<!-- # 🤝 Connect With Me
 
 
 <div align="center">
@@ -364,7 +362,7 @@ create exceptional software.
 </div>
 
 
----
+--- -->
 
 # 💬 Quote
 

@@ -1,4 +1,5 @@
 ## Hi there 👋
+
 # I'm 
 
 <div align="center">
@@ -124,6 +125,7 @@ Algorithms
 Flutter
 Dart
 Material Design
+```
 <!-- Responsive UI
 Reusable Widgets
 State Management
@@ -359,6 +361,7 @@ create exceptional software.
 </div>
 
 --- -->
+```
 # 💬 Quote
 
 <div align="center">

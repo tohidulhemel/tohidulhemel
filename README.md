@@ -1,5 +1,5 @@
 ## Hi there 👋
-# ⚡I'm a Software Engineer & Mobile Developer 🚀
+# I'm 
 
 <div align="center">
 
@@ -9,11 +9,10 @@
 
 <!-- <img src="https://komarev.com/ghpvc/?username=tohidulhemel&style=for-the-badge&color=7aa2f7"/>
  -->
-<br>
 
-<a href="https://github.com/tohidulhemel">
+<!-- <a href="https://github.com/tohidulhemel">
 <img src="https://img.shields.io/github/followers/tohidulhemel?style=for-the-badge&logo=github&color=bb9af7"/>
-</a>
+</a> -->
 
 <!-- <a href="https://www.linkedin.com/in/hemel267/">
 <img src="https://img.shields.io/badge/LinkedIn-Hemel267-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -34,7 +33,7 @@ My current interests include:
 - 🤖 Artificial Intelligence & Machine Learning
 - 🏗️ Software Engineering Practices
 - 🌐 Modern Application Development
-- 🚀 Building scalable and reliable solutions
+- 🚀 Building scalable and reliablsole utions
 
 
 --- -->
@@ -125,14 +124,12 @@ Algorithms
 Flutter
 Dart
 Material Design
-Responsive UI
+<!-- Responsive UI
 Reusable Widgets
 State Management
 API Integration
-Mobile Architecture
+Mobile Archiecturet -->
 ```
-
----
 
 <!-- ## 🌐 Web & Backend
 

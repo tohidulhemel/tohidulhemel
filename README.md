@@ -358,11 +358,8 @@ create exceptional software.
 
 </div>
 
-
 --- -->
-
 # 💬 Quote
-
 
 <div align="center">
 
